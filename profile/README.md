@@ -1,9 +1,7 @@
 ### Hi there 👋, we are BIG Labs
 #### A group of skilled italian Devs that support Open Source
-<br/><br/>
+
 ![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
-
-
 
 We provide design and implementation for Blockchains related software.
 - 🔭 Our main efforts are on [Terra](https://www.terra.money/) and [Cosmos](https://v1.cosmos.network/sdk) Blockchains.
