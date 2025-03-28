@@ -4,11 +4,11 @@
 ![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 We provide design and implementation for Blockchains related software.
-- 🔭 Our main efforts are on [Terra](https://www.terra.money/) and [Cosmos](https://v1.cosmos.network/sdk) Blockchains.
+- 🔭 Our main efforts are on EVM and Cosmos Blockchains.
 
-- 🌱 We also provide solutions for [EVM](https://ethereum.org/it/developers/docs/evm/)
+- 🌱 We support protocols and teams by providing end-to-end technical support, from architecture to implementation.
 
-- 👯 We are currently working with [Capapult](https://capapult.finance/) for the implementation of their Smart Contracts.
+- 👯 Our team blends deep knowledge in security, infrastructure, and decentralized finance, with a strong focus on performance and scalability
 
 #### 💬 About us:
 
@@ -18,10 +18,10 @@ We provide design and implementation for Blockchains related software.
 > RUST and SOLIDITY
 
 📫 Scripts
-> GO and PYTHON
+> GO, RUST, TS, PYTHON
 
 😄 Front End
-> REACT and JS
+> NEXTJS, REACT and TS
 
 
 
